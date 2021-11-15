@@ -4,7 +4,7 @@ from pyfiglet import figlet_format
 
 def try_me():
     cprint(figlet_format('Yes! It Works!', font='starwars'),
-           'yellow',
+           'blue',
            'on_red',
            attrs=['bold'])
 
