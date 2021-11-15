@@ -29,3 +29,6 @@ memoized-property
 termcolor
 colorama
 pyfiglet
+
+#lewagon
+#git+https://github.com/eloisahernandez/my_shared_package
